@@ -11,7 +11,8 @@
 ### Project Overview
 
 This project showcases a comprehensive retail data analytics workflow using PostgreSQL and an open-source e-commerce dataset. 
-The goal was to demonstrate advanced SQL skills by building a robust ETL pipeline, data modelling, and insightful business analyses typical of a professional data analyst role.
+The goal was to demonstrate advanced SQL skills by building a robust ETL pipeline, data modelling, and insightful business analyses typical of a professional data analyst role. This project highlights the ability to use SQL not just for querying but also for end-to-end analysis from raw dataset to actionable insights. By focusing on a 
+real-world scenario like e-commerce, it demonstrates both technical competence and business understanding.
 
 ### Dataset Info
 - Source: "[https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)"
